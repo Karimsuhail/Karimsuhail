@@ -14,6 +14,6 @@ Hello there! 👋 I'm Karim Suhail S, a passionate developer with expertise in F
 
 ## Contact
 
-Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect. You can reach me at karimsuhail18@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karimsuhail/).
+Feel free to reach out if you'd like to collaborate on a project, have any questions, or just want to connect. You can reach me at karimsuhail18@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/karimsuhail/).
 
 Looking forward to connecting with fellow developers and creating amazing things together!
