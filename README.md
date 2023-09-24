@@ -4,7 +4,7 @@ Hello there! 👋 I'm Karim Suhail S, a passionate developer with expertise in F
 
 ## Skills
 
-- **Frontend Development:** I specialize in creating responsive and interactive web applications using HTML, CSS, and JavaScript. I'm experienced with modern frameworks like React and Vue.js, ensuring smooth user experiences and seamless integration.
+- **Frontend Development:** I specialize in creating responsive and interactive web applications using HTML, CSS, and JavaScript. I'm experienced with modern frameworks like React , ensuring smooth user experiences and seamless integration.
 
 - **Python Development:** I'm skilled in developing Python applications that range from automation scripts to full-fledged web applications. I'm familiar with popular libraries and frameworks such as Flask and Django, enabling me to build robust and scalable solutions.
 
